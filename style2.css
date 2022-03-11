@@ -1,0 +1,62 @@
+body
+{
+	background-color: #404040; 
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color:  #128870; #C0D06F;
+	margin: 20px;
+}
+
+#footer
+{
+	clear: both;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 18px;
+}
+
+.polecenia
+{
+	text-align: center;
+}
+
+.polecenia img
+{
+	width: 100%;
+	height: auto;
+}
+
+.polecenia p
+{
+	margin-bottom: 30px;
+}
+
+.polecenia figcaption
+{
+	margin-top: 8px;
+}
+
+/*
+.navbar-nav li:hover>.dropdown-menu
+{
+	display: block;
+}
+*/
+
+.navbar
+{
+	min-height: 57px;
+}
+
+.bg-polecenia
+{
+	background-color: #128870; !important;
+}
